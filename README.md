@@ -52,7 +52,7 @@ SolrServiceContainer.getInstance().getUserService().updateDocument(new Customer(
 SolrServiceContainer.getInstance().getResourceService().updateDocument(new Resource());
 ```
 
-After you have initially imported your data into Solr, only thing needed is to call the RecommenderEngine to generate recommendations based on a user-ID and/or product-ID. Additional parameters are n (the number of returned recommendations) and a content filter (used for narrowing down the wanted recommendation results, e.g., recommendations suited only for users of 18 years or older).
+After you have initially imported your data into Solr, the only thing that is left to do is to call the RecommenderEngine to generate recommendations based on a user-ID and/or product-ID. Additional parameters are n (the number of returned recommendations) and a content filter (used for narrowing down the wanted recommendation results, e.g., recommendations suited only for users of 18 years and older).
 
 ```
 RecommenderOperations engine = new RecommenderEngine();
