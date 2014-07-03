@@ -1,7 +1,7 @@
 SocRec 
 ======
 
-##Towards a Scalable Social Resource Recommender Framework using Apache Solr
+##A Scalable Social Recommender Engine for Online Marketplaces
 =========================
 
 ## Description
