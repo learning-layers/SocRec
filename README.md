@@ -69,7 +69,21 @@ List<String> recommendedResourceIds = engine.getRecommendations(userID, productI
 * Lacic, E., Kowald, D., Parra, D., Kahr, M., & Trattner, C. (2014). [Towards a Scalable Social Recommender Engine for Online Marketplaces: The Case of Apache Solr](http://www.christophtrattner.info/pubs/ws12srs11.pdf), In Proceedings of the ACM World Wide Web Conference companion (WWW 2014). ACM.
 * Lacic, E., Kowald, D., & Trattner, C. (2014). [SocRecM: A Scalable Social Recommender Engine for Online Marketplaces](http://www.christophtrattner.info/pubs/ht245-lacic.pdf), In Proceedings of the 25th ACM Conference on Hypertext and Social Media, HT'14, New York, NY, USA, 2014. ACM.
 
+_Bibtex:_
+`@inproceedings{Lacic2014SocRec,
+ author = {Lacic, Emanuel and Kowald, Dominik and Trattner, Christoph},
+ title = {SocRecM: A Scalable Social Recommender Engine for Online Marketplaces},
+ booktitle = {Proceedings of the 25th ACM Conference on Hypertext and Social Media},
+ series = {HT '14},
+ year = {2014},
+ isbn = {978-1-4503-2263-8},
+ location = {Santiago de Chile, Chile},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+}`
+
 ## Contact
 * Emanuel Lacic, Graz University of Technology, elacic@know-center.at
 * Christoph Trattner, Know-Center, Graz University of Technology, ctrattner@know-center.at
+* Dominik Kowald, Know-Center, Graz University of Technology, dkowald@know-center.at
 
