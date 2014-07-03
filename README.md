@@ -1,4 +1,7 @@
-SocRec - Towards a Scalable Social Resource Recommender Framework using Apache Solr
+SocRec 
+======
+
+##Towards a Scalable Social Resource Recommender Framework using Apache Solr
 =========================
 
 ## Description
